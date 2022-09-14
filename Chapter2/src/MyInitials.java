@@ -25,4 +25,4 @@ public class MyInitials {
 	J R
 	 */
 
-}s
+}
