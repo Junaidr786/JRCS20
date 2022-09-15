@@ -5,7 +5,7 @@ public class CRT {
 
 	Program: CRT.java          Last Date of this Revision: September 14, 2022
 
-	Purpose: An application that outputs my initials.
+	Purpose: Answers to questions
 
 	Author: Junaid, 
 	School: CHHS
